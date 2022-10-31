@@ -1,2 +1,7 @@
 @use "/node_modules/bootstrap/scss/bootstrap.scss";
 
+input::-webkit-inner-spin-button, 
+input::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0;
+}
