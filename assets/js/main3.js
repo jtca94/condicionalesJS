@@ -7,8 +7,7 @@ const respuesta = document.getElementById("respuesta");
 verificar.addEventListener("click", () => {
     
     if(c1.value == 7 && c2.value == 1 && c3.value == 4) {
-        respuesta.innerHTML = `password 2 correcto`
-        
+        respuesta.innerHTML = `password 2 correcto`   
     }
     else if(c1.value == 9 && c2.value == 1 && c3.value == 1) {
         respuesta.innerHTML = `password 1 correcto`

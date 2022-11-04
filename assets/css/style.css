@@ -10783,4 +10783,8 @@ input::-webkit-outer-spin-button {
 
 .second {
   border: 2px solid red;
+}
+
+a {
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
